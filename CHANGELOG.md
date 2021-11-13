@@ -1,2 +1,2 @@
-# Update v1.1.0
-- Fixed /ad!
+# Update v2.0.0
+- Aded new commands / updated others
