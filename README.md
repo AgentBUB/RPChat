@@ -26,3 +26,8 @@ A Standalone Proximity Roleplaying Chat Resource.
 - Extract the folder to your resources.
 - Rename the folder to "rpchat".
 - Add the resource to the startup configuration. `start rpchat`
+
+
+# Pictures:
+![https://media.agentsquad.org/images/Proximity%20Chat/Example1.png](https://media.agentsquad.org/images/Proximity%20Chat/Example1.png)
+![https://media.agentsquad.org/images/Proximity%20Chat/Example2.png](https://media.agentsquad.org/images/Proximity%20Chat/Example2.png)
